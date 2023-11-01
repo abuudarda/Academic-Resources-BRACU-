@@ -1,0 +1,23 @@
+# Academic-Resources-BRACU-
+find academic resources of bracu including 
+
+CSE 111
+CSE 220
+CSE 221
+CSE 446
+CSE 425
+CSE 437
+CSE 420
+CSE 428
+CSE 421
+CSE 423
+CSE 370
+CSE 101 
+SOC 101
+CSE 422
+CSE 321
+MAT 120
+MAT 215
+CSE 260
+CSE 320
+CSE 330
